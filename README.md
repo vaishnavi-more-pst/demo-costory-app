@@ -1,2 +1,2 @@
 # demo-costory-app
-Demo COstory app build for development.
+Demo Costory app build for development.
